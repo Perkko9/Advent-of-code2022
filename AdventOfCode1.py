@@ -7,7 +7,7 @@ calories = 0
 topElves = 0
 
 #read file
-with open('inputday1.txt') as f:
+with open('/../inputday1.txt') as f:
     lines = f.readlines()
 
 # goes through file and adds calories per elf
